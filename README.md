@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @tangjunhao518
-- 👨🏻‍💻 I’m currently learning Machine Learning, GitHub and Pytorch.
+- 👋 Hi, I’m Tang Junhao.
+- 👨🏻‍💻 I’m currently learning Deep Learning and Pytorch.
 - 📫 How to reach me:tjh540350479@163.com
 
 <!---
