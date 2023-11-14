@@ -1,3 +1,4 @@
+# This week I learned PCA and Canny
 - 👋 Hi, I’m Tang Junhao.
 - 👨🏻‍💻 I’m currently learning Deep Learning and Pytorch.
 - 📫 How to reach me:tjh540350479@163.com
